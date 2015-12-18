@@ -1,7 +1,7 @@
 name: xdesigner
 favicon: null
-layout_spectrum: 0.77455
-typography_spectrum: 0.63682
+layout_spectrum: 1
+typography_spectrum: 0.24624
 title: Alex Hsiao
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.1875
-  lightness: 0.3520404400769621
-  saturation: 0.75
-  rhythmicContrast: 0.8705997108481824
+    - '#000000'
+    - '#ffffff'
+    - '#ff8f00'
+    - '#2f2f31'
+    - '#bbbbbb'
+  brandStrength: 0.5
+  lightness: 1
+  saturation: 0.375
+  rhythmicContrast: 0.75
 purpose: []
