@@ -1,0 +1,28 @@
+name: xdesigner
+favicon: null
+layout_spectrum: 0.7509900452569127
+typography_spectrum: 0.8507609185762703
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.033290362916886806
+  lightness: 0.3520404400769621
+  saturation: 0.754391579888761
+  rhythmicContrast: 0.8705997108481824
+purpose: []
