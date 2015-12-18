@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-18T02:47:15.739Z'
-dateModified: '2015-12-18T02:47:12.129Z'
+datePublished: '2015-12-18T03:27:16.646Z'
+dateModified: '2015-12-18T03:27:11.346Z'
 title: Design Thoughts
 author: []
 sourcePath: _posts/2015-12-18-design-thoughts.md
@@ -24,6 +24,6 @@ _type: Article
 ---
 # Design Thoughts
 
-> # Time to create.
-> 
-> Time to write.
+# 
+
+Under consideration. Design Management. Product Design. Design Thinking.
