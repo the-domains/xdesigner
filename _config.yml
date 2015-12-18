@@ -1,7 +1,7 @@
 name: xdesigner
 favicon: null
-layout_spectrum: 0.7509900452569127
-typography_spectrum: 0.8507609185762703
+layout_spectrum: 0.77455
+typography_spectrum: 0.63682
 title: Alex Hsiao
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.033290362916886806
+  brandStrength: 0.1875
   lightness: 0.3520404400769621
-  saturation: 0.754391579888761
+  saturation: 0.75
   rhythmicContrast: 0.8705997108481824
 purpose: []
