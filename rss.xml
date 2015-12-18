@@ -4,7 +4,7 @@
         <description><![CDATA[Alex Hsiao]]></description>
         <link>https://thegrid.ai/xdesigner/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 02:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 02:26:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/xdesigner/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Kyoto]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/xdesigner/kyoto/index.html</link>
             <guid isPermaLink="false">2fd9adc3-8f4d-4c9f-94bb-19c428cd818c</guid>
             <pubDate>Fri, 18 Dec 2015 02:19:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/xdesigner/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">dae94d84-30b0-445e-95da-921c4c532a89</guid>
-            <pubDate>Fri, 18 Dec 2015 01:57:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
