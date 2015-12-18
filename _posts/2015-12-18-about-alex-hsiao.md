@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-18T02:44:21.438Z'
-dateModified: '2015-12-18T02:44:06.569Z'
+datePublished: '2015-12-18T02:48:23.012Z'
+dateModified: '2015-12-18T02:48:19.207Z'
 title: About Alex Hsiao
 author: []
+sourcePath: _posts/2015-12-18-about-alex-hsiao.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-18-about-alex-hsiao.md
-published: true
 url: about-alex-hsiao/index.html
 _type: Article
 
