@@ -4,11 +4,18 @@
         <description><![CDATA[Alex Hsiao]]></description>
         <link>https://thegrid.ai/xdesigner/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 02:30:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 02:41:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/xdesigner/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Design Thoughts]]></title>
+            <description><![CDATA[<h1>Design Thoughts</h1>]]></description>
+            <link>https://thegrid.ai/xdesigner/design-thoughts/index.html</link>
+            <guid isPermaLink="false">a45a6272-39f8-47d7-a577-b7663de74431</guid>
+            <pubDate>Fri, 18 Dec 2015 02:41:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Tokyo 2015]]></title>
-            <description><![CDATA[<article><h1>Tokyo 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f439c3df05e296c2219c4846549e418c4a64b1e.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Tokyo 2015</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acb8fa1b620be9d9b8736c6d7cf222fc1b8f6626.jpg"></article>]]></description>
             <link>https://thegrid.ai/xdesigner/tokyo-2015/index.html</link>
             <guid isPermaLink="false">36fa6421-9c4a-4b35-8462-ae48ac45ab0e</guid>
             <pubDate>Fri, 18 Dec 2015 02:29:36 GMT</pubDate>
